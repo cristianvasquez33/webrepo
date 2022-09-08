@@ -1,3 +1,4 @@
+git init
 
 git log  --oneline 
 git branch -M master
