@@ -1,0 +1,4 @@
+
+git log  --oneline 
+git branch -M master
+git push -u origin master

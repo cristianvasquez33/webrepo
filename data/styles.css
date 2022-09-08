@@ -1,0 +1,22 @@
+.mi_alineacion {   
+    text-align: center;
+     } 
+.alineacion{
+       height: 90vh;             
+       display: flex;
+       flex-direction: column;
+       text-align: center;
+       align-items: center;
+       justify-content: space-between;
+      }
+.mi_color {
+ color: blue;
+       }
+
+       .mi_verde {
+        color: rgb(51, 255, 0);
+              }      
+
+       
+
+   
